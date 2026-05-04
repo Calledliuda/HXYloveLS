@@ -9,26 +9,6 @@ const photos = [
     title: "第二张照片",
     text: "这里写这张照片的故事。",
   },
-  {
-    src: "https://images.unsplash.com/photo-1501901609772-df0848060b33?auto=format&fit=crop&w=900&q=85",
-    title: "认真喜欢",
-    text: "换成纪念日照片、自拍、合照，页面会自动排成照片墙。",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=85",
-    title: "最好的日子",
-    text: "可以记录日期、地点，或写一句想对爱人说的话。",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=900&q=85",
-    title: "拥抱时刻",
-    text: "如果要用本地照片，把 src 改成 assets/photos/你的照片名.jpg。",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=900&q=85",
-    title: "未完待续",
-    text: "以后每一次新的回忆，都可以继续加在这个数组里。",
-  },
 ];
 
 const galleryGrid = document.querySelector("#galleryGrid");
