@@ -1,13 +1,13 @@
 const photos = [
   {
-    src: "https://images.photos.2.JPG",
-    title: "一起走过的街",
-    text: "把这张替换成你们散步、旅行或约会时拍下的照片。",
+    src: "assets/photos/1.JPG",
+    title: "第一张照片",
+    text: "这里写这张照片的故事。",
   },
   {
-    src: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=900&q=85",
-    title: "靠近一点",
-    text: "这里可以写拍照那天的小故事，或者一句只有你们懂的话。",
+    src: "assets/photos/2.JPG",
+    title: "第二张照片",
+    text: "这里写这张照片的故事。",
   },
   {
     src: "https://images.unsplash.com/photo-1501901609772-df0848060b33?auto=format&fit=crop&w=900&q=85",
