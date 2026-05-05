@@ -9,6 +9,14 @@ const photos = [
     title: "第二张照片",
     text: "这里写这张照片的故事。",
   },
+  {    src: "assets/photos/3.JPG",   
+       title: "第三张照片",   
+       text: "这里写这张照片的故事。",  
+  },
+  {    src: "assets/photos/4.JPG",  
+       title: "第四张照片",   
+       text: "这里写这张照片的故事。", 
+  },
 ];
 
 const galleryGrid = document.querySelector("#galleryGrid");
